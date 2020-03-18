@@ -1,0 +1,17 @@
+[package]
+name = "advanedresearch-trinoise"
+version = "0.1.0"
+authors = ["Sven Nilsen <bvssvni@gmail.com>"]
+edition = "2018"
+keywords = ["advancedresearch", "math", "noise", "groupoid"]
+description = "A mathematical noise pattern of 3 values based on Number Theory and Set Theory"
+license = "MIT"
+repository = "https://github.com/advancedresearch/trinoise.git"
+homepage = "https://github.com/advancedresearch/trinoise"
+documentation = "https://docs.rs/advancedresearch-trinoise"
+readme = "README.md"
+
+[lib]
+name = "trinoise"
+
+[dependencies]
